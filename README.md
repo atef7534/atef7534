@@ -7,5 +7,3 @@ I love building web applications and exploring AI technologies.
 - 💻 Technologies I use: Python, JavaScript, React, Node.js, SQL, Flask  
 - 📫 How to reach me: [atefyasser97@gmail.com](mailto:atefyasser97@gmail.com)  
 - ⚡ Fun fact: I can type 120 words per minute!  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atef7534&show_icons=true&theme=radical)
