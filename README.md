@@ -61,12 +61,6 @@ Sep 2020 – Sep 2024
 
 - **RAG-Based AI Knowledge Assistant** – Built a system to answer queries using custom document sources with Python backend APIs.  
 - **AI-Powered Backend API Service** – Developed RESTful APIs integrating LLMs for intelligent responses.  
-- **Full Stack Web Applications** – Created multiple web apps with Python backends and React.js frontends:  
-  - *E-commerce Website (Marko)* – Online marketplace.  
-  - *Library Store* – Full-stack platform for buying & renting books.  
-  - *BuyMee* – Online marketplace for electronics (phones, laptops).  
-  - *Typing Practice Website* – Web-based typing speed and accuracy platform.
-
 ---
 
 ## 🌐 Languages
