@@ -4,7 +4,7 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=8A2BE2&height=1" width="100%">
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 
 ## 🛠 Skills
 **Languages & Frameworks:**
