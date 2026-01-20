@@ -4,7 +4,10 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
 ## 🛠 Skills
 **Languages & Frameworks:**
 <p align="left">
@@ -62,7 +65,9 @@ Sep 2020 – Sep 2024
 **Awards & Activities:**  
 - Participated in **ECPC** (Egyptian Competitive Programming Competition)
 
-![](https://capsule-render.vercel.app/render?type=rect&color=007ACC&height=2)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 💼 Professional Experience
 
@@ -88,20 +93,26 @@ Sep 2020 – Sep 2024
 - Designed interactive lessons, adapting explanations to different learning levels.  
 - Supported students with guidance, feedback, and problem-solving.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 🖥 Projects
 
 - **RAG-Based AI Knowledge Assistant** – Built a system to answer queries using custom document sources with Python backend APIs.  
 - **AI-Powered Backend API Service** – Developed RESTful APIs integrating LLMs for intelligent responses.  
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 🌐 Languages
 
 - **English** – Fluent  
 - **Arabic** – Native  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 📫 Contact Me
 
@@ -109,4 +120,6 @@ Sep 2020 – Sep 2024
 - **Phone:** +201555005030  
 - **Location:** Kafr El Sheikh, Egypt  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
