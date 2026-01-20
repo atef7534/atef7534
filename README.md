@@ -50,6 +50,10 @@ I’m passionate about building **clean, maintainable code**, optimizing system 
   <rect x="50%" y="0" width="50%" height="6" fill="#7C3AED"/>
 </svg>
 
+<svg width="100%" height="6" xmlns="http://www.w3.org/2000/svg">
+  <rect width="50%" height="6" fill="#2563EB"/>
+  <rect x="50%" width="50%" height="6" fill="#7C3AED"/>
+</svg>
 
 ---
 
