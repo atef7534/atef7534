@@ -66,7 +66,7 @@ Sep 2020 – Sep 2024
 **Awards & Activities:**  
 - Participated in **ECPC** (Egyptian Competitive Programming Competition)
 
----
+![](https://capsule-render.vercel.app/render?type=rect&color=007ACC&height=2)
 
 ## 💼 Professional Experience
 
