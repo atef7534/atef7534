@@ -4,7 +4,7 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
-<div style="width: 80%; margin-inline: auto; height: 5px; background-image: linear-gradient(to right, red, blue, green)"></div>
+---
 
 ## 🛠 Skills
 
