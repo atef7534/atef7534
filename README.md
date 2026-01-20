@@ -5,21 +5,51 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
 ---
-### 🛠️ Tech Stack
-
+## 🛠 Skills
+**Languages & Frameworks:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
-## 🛠 Skills
+**Databases:** 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
-**Languages & Frameworks:** Python, JavaScript, Django, Flask, FastAPI, React.js, Node.js  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Web & Tools:** HTML5, CSS3, Bootstrap, REST APIs, Git, Linux, OOP, DSA  
-**AI & ML:** LLMs, RAG pipelines, Embeddings, Vector Databases  
-**Other:** Problem-Solving, System Design, Clean Code, Mentorship
+
+**Web & Tools:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+
+**AI & ML:** 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+</p>
+
+**Other:**
+**LLMs • RAG Pipelines • Embeddings • Vector Databases**
+**Problem Solving • System Design • Clean Code • Mentorship • OOP • DSA • REST APIs**
+
+<svg width="100%" height="6" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="50%" height="6" fill="#2563EB"/>
+  <rect x="50%" y="0" width="50%" height="6" fill="#7C3AED"/>
+</svg>
+
 
 ---
 
