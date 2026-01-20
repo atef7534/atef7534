@@ -5,6 +5,13 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
 ---
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+</p>
 
 ## 🛠 Skills
 
