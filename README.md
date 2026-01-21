@@ -5,8 +5,7 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠 Skills
