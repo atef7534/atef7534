@@ -5,6 +5,8 @@ I'm a **Full Stack Developer & AI Engineer** from Egypt with 3+ years of hands-o
 I’m passionate about building **clean, maintainable code**, optimizing system performance, and delivering **real-world solutions** that make an impact.  
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🛠 Skills
 **Languages & Frameworks:**
@@ -45,72 +47,6 @@ I’m passionate about building **clean, maintainable code**, optimizing system 
 **Other:**
 **LLMs • RAG Pipelines • Embeddings • Vector Databases**
 **Problem Solving • System Design • Clean Code • Mentorship • OOP • DSA • REST APIs**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 🎓 Education
-
-**Bachelor of Artificial Intelligence** – Kafr El Sheikh University | GPA: 3.28 (Very Good)  
-Sep 2020 – Sep 2024  
-
-**Certifications:**  
-- CS50x, Harvard University  
-- Full Stack Certificate, Creativo Mansoura  
-- And more  
-
-**Awards & Activities:**  
-- Participated in **ECPC** (Egyptian Competitive Programming Competition)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 💼 Professional Experience
-
-**AI Backend Engineer / Backend Developer (RAG & LLM Systems)** – 2024 – Present  
-- Designed and implemented Retrieval-Augmented Generation (RAG) pipelines using embeddings, vector databases, and LLMs.  
-- Built scalable backend APIs with **Python (FastAPI / Flask)** for AI-powered applications.  
-- Integrated LLMs with external data sources and document stores.  
-- Optimized API performance and collaborated with frontend developers for seamless integration.
-
-**Full Stack Developer** – 2021 – 2023  
-- Developed full-stack web applications with **Python backends** and **React.js frontends**.  
-- Designed RESTful endpoints for authentication, data management, and business logic.  
-- Built responsive, user-friendly interfaces and reusable React components.  
-- Ensured secure and efficient database integration.
-
-**Programming Instructor / Technical Trainer** – 2022 – Present  
-- Delivered structured coding lessons in English for students at different skill levels.  
-- Guided students through hands-on projects, improving coding, problem-solving, and logical thinking skills.  
-- Mentored students on best practices, clean code, and interview preparation.
-
-**English Coding Instructor** – 3C Creative English Community | Jun 2024 – Aug 2025  
-- Helped students understand programming concepts in English.  
-- Designed interactive lessons, adapting explanations to different learning levels.  
-- Supported students with guidance, feedback, and problem-solving.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 🖥 Projects
-
-- **RAG-Based AI Knowledge Assistant** – Built a system to answer queries using custom document sources with Python backend APIs.  
-- **AI-Powered Backend API Service** – Developed RESTful APIs integrating LLMs for intelligent responses.  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 🌐 Languages
-
-- **English** – Fluent  
-- **Arabic** – Native  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
 
 ## 📫 Contact Me
 
