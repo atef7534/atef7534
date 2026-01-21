@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atef Yasser</h1>
-<h3 align="center">AI Engineer | Full-Stack Web Developer</h3>
+<h1>Hi 👋, I'm Atef Yasser</h1>
+<h3>AI Engineer | Full-Stack Web Developer</h3>
 
 - 🎓 AI graduate with strong software engineering background  
 - 💻 Building AI-powered & scalable web applications  
@@ -13,9 +13,9 @@
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **AI / ML:** OpenCV, TensorFlow, Scikit-Learn
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atef7534&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atef7534&show_icons=true&theme=default)
 
 ## 🎓 Education
 - B.Sc. in Artificial Intelligence – Kafr Ash Shaykh University
