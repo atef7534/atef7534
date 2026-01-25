@@ -3,7 +3,7 @@
 
 - 🎓 AI graduate with strong software engineering background  
 - 💻 Building AI-powered & scalable web applications  
-- 🌍 Interested in AI, Full-Stack, and European opportunities  
+- 🌍 Interested in AI Engineering and Full-Stack
 - 🚀 Always learning & improving
 
 ### 🛠 Tech Stack
