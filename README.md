@@ -7,11 +7,11 @@
 - 🚀 Always learning & improving
 
 ### 🛠 Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,react,html,css,bootstrap" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,mysql,postgres,mongodb,tensorflow,opencv,sklearn" />
 </p>
 
