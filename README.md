@@ -32,5 +32,5 @@
 
 ## 💼 Experience
 - Backend AI Engineer (2025 - PRESENT)
-- English & Arabic coding instructor - 3C (2024 - PRESENT)  
+- English & Arabic coding instructor - 3C & Berlitz School (2024 - PRESENT)  
 - Full stack developer - EL BAROON (2024 - 2025)
