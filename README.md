@@ -15,6 +15,9 @@
   <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,mysql,postgres,mongodb,tensorflow,opencv,sklearn" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,opencv,cloudflare,openai,huggingface" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=default)
 
