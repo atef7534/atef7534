@@ -8,7 +8,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,sql,react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,react,html,css,bootstrap" />
 </p>
 
 <p align="center">
