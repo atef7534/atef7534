@@ -7,11 +7,14 @@
 - 🚀 Always learning & improving
 
 ### 🛠 Tech Stack
-- **Languages:** Python, JavaScript, Java, C++, SQL
-- **Frontend:** React.js, HTML, CSS, Bootstrap
-- **Backend:** Flask, FastAPI, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **AI / ML:** OpenCV, TensorFlow, Scikit-Learn
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,sql,react,html,css,bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,mysql,postgres,mongodb,tensorflow,opencv,sklearn" />
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=default)
 
