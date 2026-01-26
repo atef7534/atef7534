@@ -24,7 +24,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=default)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atef7534&show_icons=true&theme=default)
 
 ## 🎓 Education
