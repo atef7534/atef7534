@@ -57,9 +57,6 @@
 
 - **B.Sc. in Artificial Intelligence** – Kafr Ash Shaykh University  
 
-![](https://i.imgur.com/waxVImv.png)
-
-
 ## 🏢 Experience
 
 - **Software Engineer & AI Developer** | Siemens Healthineers  
