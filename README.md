@@ -53,15 +53,6 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 
-## 📊 GitHub Stats
-
-![Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atef7534&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atef7534&layout=compact&theme=radical)
-
-![](https://i.imgur.com/waxVImv.png)
-
-
 ## 🎓 Education
 
 - **B.Sc. in Artificial Intelligence** – Kafr Ash Shaykh University  
