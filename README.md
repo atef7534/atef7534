@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atef Yasser
 
-### AI Engineer | Full-Stack Web Developer | ML Enthusiast
+### Software Developer
 
 🚀 I build AI-powered, scalable web applications and solve challenging problems with Machine Learning and Deep Learning.  
 💡 Passionate about AI, NLP, Computer Vision, and Full-Stack Development.  
